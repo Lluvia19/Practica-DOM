@@ -1,0 +1,13 @@
+#titulo {
+    color: red;
+}
+body {
+    background-color: lightblue;
+}
+button {
+    background-color: lightgray;
+}
+header {
+    border: 3px solid black;
+    background-color: dodgerblue;
+}
